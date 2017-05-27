@@ -1,0 +1,10 @@
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\bin\Debug\LabCrud.exe.config
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\bin\Debug\LabCrud.exe
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\bin\Debug\LabCrud.pdb
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.csprojResolveAssemblyReference.cache
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.Form1.resources
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.Properties.Resources.resources
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.csproj.GenerateResource.Cache
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.exe
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.pdb
+c:\users\nigar\documents\visual studio 2015\Projects\LabCrud\LabCrud\obj\Debug\LabCrud.Form2.resources
